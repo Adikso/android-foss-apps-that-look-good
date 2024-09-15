@@ -38,7 +38,7 @@ Explore this collection of visually appealing FOSS Android apps, and enjoy the b
 - [QUIK SMS](https://github.com/octoshrimpy/quik)  (![](https://avatars.githubusercontent.com/u/8239603?s=16&v=4)[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/))
 
 ## Synchronization
-- [Immich](https://github.com/immich-app/immich)  (![](https://avatars.githubusercontent.com/u/8239603?s=16&v=4)[F-Droid](https://f-droid.org/pl/packages/app.alextran.immich/))
+- [Immich](https://github.com/immich-app/immich)  (![](https://avatars.githubusercontent.com/u/8239603?s=16&v=4)[F-Droid](https://f-droid.org/pl/packages/app.alextran.immich/)) (F-Droid screenshots are very old)
 
 ## Weather
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) (![](https://avatars.githubusercontent.com/u/8239603?s=16&v=4)[F-Droid](https://f-droid.org/packages/org.breezyweather/))
